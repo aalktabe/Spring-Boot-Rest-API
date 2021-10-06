@@ -10,12 +10,12 @@ The objectif is to build an application that store Students in a PostgreSQL data
 
 
 # Techniques used
-- Spring Data JPA
-- Connection to a PostgreSQL data base
-- Handling contraints on tables
-- Mapping classes to tables
-- Hibernate Entity Life Cycle
-- Queries
-- Modalization of classes
-- Transactions
-- Handling Exceptions
+* Spring Data JPA
+* Connection to a PostgreSQL data base
+* Handling contraints on tables
+* Mapping classes to tables
+* Hibernate Entity Life Cycle
+* Queries
+* Modalization of classes
+* Transactions
+* Handling Exceptions
