@@ -24,5 +24,7 @@ The objectif is to build an application that store Students in a PostgreSQL data
 
 # Testing project
 1- Git clone the project
+
 2- Open the project in an IDE like Eclipse or IntelliJ as a Maven project
+
 3- Run it normally
