@@ -7,7 +7,8 @@ The objectif is to build an application that store Students in a PostgreSQL data
 ![architecture](https://user-images.githubusercontent.com/43380936/136327171-e55f13da-3a63-478c-ad42-10046e1d25dc.JPG)
 
 
-![alt text]((https://ibb.co/QHdLgsg)
+![student](https://user-images.githubusercontent.com/43380936/136327286-046d9fa7-6b62-47d2-9672-719755c86050.JPG)
+
 
 
 # Techniques used
